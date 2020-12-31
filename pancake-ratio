@@ -1,0 +1,9 @@
+M = egg weight 
+flour weight : M*2
+sugar weight : [0.10,0.25] * M or none
+fat weight : M*0.5
+liquid weight : M
+baking soda : 1-2 gr per ehh
+mix liquid part together, beat eggs, mix dry part together then add liquid to dry 
+*if you want them to be really leavened and soft , mix fat to flour instead of in liquid part (fat coat flour, reducing gluten development ,which in help leavening)
+*if you like a pretzel like taste, add more baking soda
